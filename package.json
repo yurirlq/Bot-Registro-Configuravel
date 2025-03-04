@@ -1,12 +1,12 @@
 {
-  "name": "botregistropremium",
+  "name": "Ghost Verificação",
   "version": "1.0.0",
-  "description": "",
+  "description": "Criado Por Yurirlq777",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "premiumregisterbot",
+  "author": "Yurirlq777",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.6.0",
